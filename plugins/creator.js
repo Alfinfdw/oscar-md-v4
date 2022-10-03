@@ -20,21 +20,21 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = 'https://telegra.ph/file/f38f1ce61e1e674e20e94.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Oscar Offc
-${htjava} *✉️ Nama YouTube* : Rismabotz offc
+${htjava} *💌 Nama* : ALganz OFC
+${htjava} *✉️ Nama YouTube* : ALganz OFC
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 30 Januari 2004
-${htjava} *🎨 Umur* : 17
+${htjava} *⏰ Tanggal lahir* : RAHASIA 
+${htjava} *🎨 Umur* : KEPO
 ${htjava} *🧮 Kelas* : Lulus 
-${htjava} *🧩 Hobby* : Nonton Donghua, Chatting, Musik, Recode script bot
-${htjava} *💬 Sifat* : Baik, No seleb, Y, Y
-${htjava} *🗺️ Tinggal* : Indo, Tulungagung, Jawa Timur
+${htjava} *🧩 Hobby* : Chatting, Musik, DAN MENCINTAIMU
+${htjava} *💬 Sifat* : BAIK
+${htjava} *🗺️ Tinggal* : Indo, SURABAYA, Jawa Timur
 ${htjava} *❤️ Suka* : Kamu
 ${htjava} *💔 Benci* : autis, seleb
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
-${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : Jarot
+${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : ALGANZ
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
